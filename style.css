@@ -45,3 +45,40 @@ main {
     padding: 5px 10px;
     margin: 20px;
 }
+
+/* ...........failure section start.............. */
+
+.failure-sec {
+    background-color: azure;
+    display: flex;
+    gap: 100px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.img {
+    width: 50%
+}
+
+.failure-des {
+    width: 50%;
+    margin-top: 200px;
+}
+
+.failure-title {
+    font-size: 35px;
+    margin-top: 50px;
+}
+
+.failure-details {
+    width: 50%;
+    font-size: 20px;
+    margin-top: 50px;
+}
+
+li {
+    list-style: none;
+    padding: 5px;
+}
+
+/* ...........failure section close.......... */

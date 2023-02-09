@@ -267,3 +267,12 @@ img {
 }
 
 /* .........end part close........ */
+
+/* .....footer part start..... */
+footer {
+    font-weight: bold;
+    font-size: 20px;
+    color: dodgerblue;
+    text-align: center;
+    padding: 10px;
+}

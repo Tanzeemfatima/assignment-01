@@ -116,3 +116,40 @@ img {
 }
 
 /* ..........plan section close.......... */
+
+/* ...........contact part start........ */
+.contact {
+    margin-top: 100px;
+    background-image: url('../images/watch.png'), url('../images/gradient1.png');
+    background-repeat: no-repeat;
+    background-blend-mode: luminosity;
+    padding: 50px;
+    height: 100px;
+    margin-bottom: 100px;
+    margin-left: 200px;
+    margin-right: 100px;
+}
+
+.contact-title {
+    padding: 10px;
+    font-size: 24px;
+    font-weight: 700;
+    color: darkblue;
+}
+
+.extra-color {
+    color: brown;
+    font-weight: 800;
+}
+
+.contact-btn {
+    color: royalblue;
+    font-size: 15px;
+    font-weight: 700;
+    border-radius: 10px;
+    border: none;
+    padding: 5px 10px;
+
+}
+
+/* ...........contact part close........ */

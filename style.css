@@ -197,3 +197,73 @@ img {
 
 
 /*.......... bonus part close..... */
+
+/*.......... end part start..... */
+
+.future {
+    display: flex;
+    gap: 300px;
+    justify-content: space-between;
+    background-color: dodgerblue;
+}
+
+.future-sec {
+    margin: auto;
+    width: 50%;
+    color: white;
+    padding-left: 200px;
+}
+
+.future-title {
+    font-size: 35px;
+    font-weight: bold;
+    padding-top: 30px;
+    padding-left: 30px;
+}
+
+.future-details {
+    font-size: 20px;
+    padding-left: 30px;
+    padding-top: 20px;
+
+}
+
+.icon-img {
+    display: flex;
+    gap: 20px;
+    padding: 30px;
+}
+
+.subscribe-sec {
+    width: 50%;
+    color: white;
+    font-size: 35px;
+    font-weight: bold;
+    padding-top: 30px;
+    padding-left: 30px;
+}
+
+.subscribe-title {
+    margin-top: 10px;
+    padding-bottom: 10px;
+}
+
+.mail {
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+
+}
+
+.subscribe-btn {
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    text-decoration: underline;
+    font-weight: bold;
+    color: slategrey;
+}
+
+/* .........end part close........ */

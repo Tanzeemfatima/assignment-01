@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+}
+
+main {
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+/* .............header part start..... */
+.banner {
+    background-image: url('../images/banner/banner3.png');
+    width: 100%;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.banner-info {
+    text-align: right;
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+    color: white;
+    margin-right: 200px;
+    padding-bottom: 200px;
+
+}
+
+.banner-title {
+    font-size: 80px;
+}
+
+.banner-des {
+    width: 500px;
+    font-size: 20px;
+}
+
+.btn {
+    color: royalblue;
+    font-size: 20px;
+    font-weight: 700;
+    border-radius: 10px;
+    border: none;
+    padding: 5px 10px;
+    margin: 20px;
+}
